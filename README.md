@@ -3,7 +3,6 @@
 ![paloma](https://user-images.githubusercontent.com/101149671/173926483-33d00bf3-861e-4e30-9339-e04360cbd16b.png)
 
 
-Merhaba Dostlarım, bu yazı da Paloma Ağı için Cüzdan Oluşturup. Kayıt yapacaz..
 Paloma Projesi Türkçe Kaynaklar
 
 
@@ -28,7 +27,7 @@ Gereksinimler (minimum):
     echo 'export GOPATH=$HOME/go' >> $HOME/.bash_profile
     echo 'export GO111MODULE=on' >> $HOME/.bash_profile
     echo 'export PATH=$PATH:/usr/local/go/bin:$HOME/go/bin' >> $HOME/.bash_profile && . $HOME/.bash_profile
-    go version[/CODE]
+    go version
 
 
 # Kütüphane Kurulumu
@@ -64,8 +63,7 @@ Gereksinimler (minimum):
    
     // <moniker-ismi> SİLİP İSMİNİZİ GİRİN
     VALIDATOR=<moniker-ismi>
-    palomad keys add "$VALIDATOR"[/CODE][CODE][/CODE]
-
+    palomad keys add "$VALIDATOR"
 
 Cüzdanınızı kaydedin ve Testnete başvurun.. 
 
@@ -83,17 +81,3 @@ Cüzdanınızı kaydedin ve Testnete başvurun..
 # DAHA FAZLA SORUNUZ VARSA PALOMA TÜRKİYE TELEGRAM GRUBU:
 
 [Telegram](https://t.me/PalomaTurkish)
-
-Teşekkürler <3
-
-
-# Hesaplar:
-
-[<img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="16px"> Twitter   ](https://twitter.com/Ruesandora0) 
-[<img src="https://cdn-icons-png.flaticon.com/512/1336/1336494.png" width="16px"> Forum   ](https://forum.rues.info/index.php)
-[<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="16px"> Telegram Announcement   ](https://t.me/RuesAnnouncement)
-[<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="16px"> Telegram Chat   ](https://t.me/RuesChat)
-[<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="16px"> Telegram Node   ](https://t.me/RuesNode)
-[<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="16px"> Telegram Node Chat](https://t.me/RuesNodeChat)
-[@muuustafasari](https://twitter.com/muuustafasari) 
-
